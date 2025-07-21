@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/logo.svg" alt="项目Logo" width="120"/>
-</p>
 
 <h1 align="center">🌌 高级开发者 - 创新个人网页</h1>
 
